@@ -12,7 +12,7 @@ This bot enables server administrators to manage voice channel assignments inter
 
 1. Clone the repository:
    ```
-   git clone https://your-repository-url.git
+   git clone https://https://github.com/cuzimmicah/VoiceLane.git
    ```
 2. Install dependencies:
    ```
